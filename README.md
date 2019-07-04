@@ -60,8 +60,8 @@
 |fuelInfo|Массив данных по при ключах litersPer100 и pricePerLiter|		
 |litersPer100|Расход топлива на 100 км|11|String|
 |pricePerLiter|Стоимость топлива за 1 литр|48.29|String|
-|trackDistanceLiters|Расход топлива на всю дистанцию|79.9|String|
-|trackDistanceFuelPrice|Полная стоимость топлива на всю дистанцию|3858.37|String|
+|trackDistanceLiters|Расход топлива на всю дистанцию|79.97|String|
+|trackDistanceFuelPrice|Полная стоимость топлива на всю дистанцию|3861.75|String|
 
 ###### Использование API
 jQuery

@@ -107,5 +107,6 @@ Kotlin
 ```kotlin
 val result = URL("https://ssl.ip-api.ru/distance-api.json?apiKey=ваш-api-ключ&a=откуда&b=куда").readText()
 /* HTTP val result = URL("http://nossl.ip-api.ru/distance-api.json?apiKey=ваш-api-ключ&a=откуда&b=куда").readText() */
+```
 
 Официальный сайт сервиса IP-API: https://ip-api.ru/. Документация по всем API: https://ip-api.ru/documentation/ или https://github.com/ip-api-ru/

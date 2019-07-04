@@ -50,7 +50,7 @@
 
 |Название|Описание|Пример|Тип|
 | --- | --- | --- | --- |
-|status|Статус запроса|(fail - отклонен или success - выполнен)|success|String|
+|status|Статус запроса (fail - отклонен или success - выполнен)|success|String|
 |trackDistanceKilometers|Дистанция в километрах|727|String|
 |distanceTime|Время преодоления дистанции (без учета пробок)|10:34:00|String|
 |trackDistanceMiles|Дистанция в милях|452|String|
